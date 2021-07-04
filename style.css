@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 0;
+}
+h6{
+    margin-left: 5px;
+    margin-top: 28px;
+}
+.first-section{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 200px;
+}
+.second-section{
+    display: flex;
+   
+}
+.hr-left{
+    margin-left: 300px;
+}
+
+section img{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: -5%;
+}
+
+.half-width{
+    width: 40%;
+}
+p{
+    text-align: justify;
+    margin-bottom: 100px;
+}
+#button-style1{
+    text-decoration: none;
+    background-color: blue;
+    padding: 60px 40px;
+    font-size: 900;
+    color: white;
+    border-radius: 50%;
+    border: 5px solid tomato;
+    margin-right: 5px;
+}
+#button-style2{
+    text-decoration: none;
+    background-color: green;
+    padding: 60px 30px;
+    font-size: 900;
+    color: white;
+    border-radius: 50%;
+    border: 5px solid red;
+    margin-left: 10px;
+    
+}
+#button-style3{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    padding: 60px 30px;
+    font-size: 900;
+    color: white;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 10px;
+}
+#in-button{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-size: 900;
+    padding: 10px ;
+}
+#upper-button1{
+    text-decoration: none;
+    position: absolute;
+    right: 192px;
+    top: 10px;
+}
+#upper-button2{
+    text-decoration: none;
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+#upper-button3{
+    text-decoration: none;
+    position: absolute;
+    right: 8px;
+    top: 10px;
+}
+
+    
